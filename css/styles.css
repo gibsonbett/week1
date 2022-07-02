@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    margin: auto;
+    background-color: #FAFAFA;
+    overflow-x: hidden;
+    overflow: scroll;
+    font-family: "Space Grotesk", sans-serif
+}
