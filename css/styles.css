@@ -9,7 +9,6 @@ body {
     overflow: scroll;
     overflow-x: hidden;
 
-    font-family: "Space Grotesk", sans-serif;
 }
 
 @media (min-width: 1240px) {
