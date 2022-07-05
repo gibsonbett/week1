@@ -4,24 +4,13 @@
 By  Gibson Bett
 
 # Table of Content
-Description
--Installation Requirement
+-Description
 -Technology Used
 -Reference
 -Licence
--Authors Info
--Description
 
-This is a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.
-
-Installation
-Requirements
-Either a computer,phone,tablet or an Ipad
-
-An access to the Internet
-
-Installation Process
-Go Back to the top
+#Description
+This is a website that shows a real estate company and the products they offer.
 
 Technology Used
 HTML - which was used to build the structure of the pages.
