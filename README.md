@@ -4,10 +4,10 @@
 By  Gibson Bett
 
 # Table of Content
--Description
--Technology Used
--Reference
--Licence
+- Description
+- Technology Used
+- Reference
+- Licence
 
 # Description
 
