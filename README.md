@@ -9,7 +9,8 @@ By  Gibson Bett
 -Reference
 -Licence
 
-#Description
+# Description
+
 This is a website that shows a real estate company and the products they offer.
 
 Technology Used
