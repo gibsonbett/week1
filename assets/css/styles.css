@@ -48,7 +48,7 @@ body {
     color: #2549D3;
     font-weight: 600;
 }
-.Vallies > h1 {
+.Vallies{
     font-family: "Oleo Script", cursive;
 }
 .button {
@@ -132,7 +132,7 @@ hr {
     box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px,
         rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
 }
-.search-area .inner-container {
+.inner-container {
     display: flex;
     align-items: center;
     width: 90%;
